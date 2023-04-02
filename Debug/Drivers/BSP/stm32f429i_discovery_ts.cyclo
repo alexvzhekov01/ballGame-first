@@ -1,0 +1,5 @@
+stm32f429i_discovery_ts.c:85:9:BSP_TS_Init	3
+stm32f429i_discovery_ts.c:119:9:BSP_TS_ITConfig	1
+stm32f429i_discovery_ts.c:131:9:BSP_TS_ITGetStatus	1
+stm32f429i_discovery_ts.c:141:6:BSP_TS_GetState	10
+stm32f429i_discovery_ts.c:217:6:BSP_TS_ITClear	1
